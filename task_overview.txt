@@ -1,0 +1,8 @@
+Task overview report:
+
+Total tasks:                        5
+Total completed tasks:              1
+Total incomplete tasks:             4
+Total incomplete & overdue tasks:   1
+Tasks incomplete                    80%
+Tasks overdue                       20%

@@ -1,0 +1,5 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, Yes
+Ryan, Coding programs, To Code for all program projects, 11 Mar 2024, 15 Apr 2024, No
+admin, Reviewing all coding, To Review all coding from staff and follow up on debugging, 11 Mar 2024, 15 Mar 2024, No
+Ryan, Induction for new employees, To introduce new employees to the company and show them around, 11 Mar 2024, 15 Apr 2024, No

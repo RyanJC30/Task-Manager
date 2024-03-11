@@ -1,0 +1,19 @@
+User overview report:
+
+Total users registered: 2
+Total tasks generated:  5
+
+
+User:                                       admin
+Total user tasks:                           3
+Percentage of total tasks:                  60%    
+Percentage of completed tasks:              33%
+Percentage of incomplete tasks:             67%
+Percentage of overdue & incomplete tasks:   33%
+
+User:                                       Ryan
+Total user tasks:                           2
+Percentage of total tasks:                  40%    
+Percentage of completed tasks:              0%
+Percentage of incomplete tasks:             100%
+Percentage of overdue & incomplete tasks:   0%
